@@ -1,0 +1,11 @@
+__pycahe__
+*.*-
+*.pyc
+.idea
+*/venv/*
+.venv/
+*.sqlite3
+Procfile
+*.env
+.vscode/
+*.sw*
